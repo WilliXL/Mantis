@@ -2,6 +2,13 @@
 
 -----
 
+## [2.8.0](https://www.github.com/guoyingtao/Mantis/compare/v2.7.0...v2.8.0) (2023-02-10)
+
+
+### Features
+
+* add support for changing languages without restarting app ([#276](https://www.github.com/guoyingtao/Mantis/issues/276)) ([5227009](https://www.github.com/guoyingtao/Mantis/commit/522700903683e0c70245298258504a6defb40cd0))
+
 ## [2.7.0](https://www.github.com/guoyingtao/Mantis/compare/v2.6.2...v2.7.0) (2023-02-05)
 
 
